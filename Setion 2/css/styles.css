@@ -71,6 +71,7 @@ header nav ul li:last-of-type a {
 
 section.hero {
     position: relative;
+    margin-bottom: 80px;
 }
 
 .hero-content {
@@ -122,4 +123,20 @@ section.hero .container {
     line-height: 24px;
     text-align: center;
     border: none;
+}
+
+.best-sellers h2 {
+    text-align: center;
+    font-size: 34px;
+    letter-spacing: 0.85px;
+    line-height: 42px;
+    font-weight: normal;
+    margin: 0 0 14px 0;
+}
+
+.best-sellers hr {
+    width: 65px;
+    border: none;
+    border-top: 5px solid #67F11D;
+    
 }
